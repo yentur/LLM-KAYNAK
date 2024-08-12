@@ -18,11 +18,11 @@ Bu bölümde, LLM ve ilgili teknolojilerle ilgili çeşitli örnekler ve uygulam
 
 Bu bölümde, LLM’ler, agent'ler ve multi-agent sistemlerle ilgili daha fazla bilgi ve destek bulabileceğiniz kaynakları içermektedir:
 
-* **Langchain Documentation:** [Link to Langchain Documentation](https://python.langchain.com/v0.2/docs/introduction/) - Langchain kütüphanesinin resmi dokümantasyonu ve kullanım kılavuzları.
-* **LlamaIndex Documentation:** [Link to LlamaIndex Documentation](https://docs.llamaindex.ai/en/stable/DOCS_README/) - LlamaIndex’in resmi dökümantasyonu ve öğreticiler.
-* **OpenAI API Documentation:** [Link to OpenAI API Documentation](https://platform.openai.com/docs/api-reference/introduction) - OpenAI API’sinin resmi dokümantasyonu ve örnekler.
-* **Claude API Documentation:** [Link to Claude API Documentation](https://docs.anthropic.com/en/api/getting-started) - Claude API hakkında detaylı bilgi ve entegrasyon rehberi.
-* **Transform LLM Documentation:** [Link to Transform LLM Documentation](https://huggingface.co/docs/transformers/llm_tutorial) - Transform LLM ile ilgili dökümantasyon ve kullanım kılavuzları.
-* **Ollama Documentation:** [Link to Ollama Documentation](https://github.com/ollama/ollama/blob/main/docs/api.md) - Ollama kütüphanesinin resmi dokümantasyonu.
-* **Llama.cpp Documentation:** [Link to Llama.cpp Documentation](https://github.com/ggerganov/llama.cpp) - Llama.cpp ile ilgili açık kaynak kodları ve dökümantasyon.
-* **Multi-Agent Systems Overview:** [Link to Multi-Agent Systems Overview](#) - Multi-agent sistemler hakkında genel bilgiler ve akademik kaynaklar.(link eklenecek)
+* **Langchain Documentation:** [Langchain Documentation](https://python.langchain.com/v0.2/docs/introduction/) - Langchain kütüphanesinin resmi dokümantasyonu ve kullanım kılavuzları.
+* **LlamaIndex Documentation:** [LlamaIndex Documentation](https://docs.llamaindex.ai/en/stable/DOCS_README/) - LlamaIndex’in resmi dökümantasyonu ve öğreticiler.
+* **OpenAI API Documentation:** [OpenAI API Documentation](https://platform.openai.com/docs/api-reference/introduction) - OpenAI API’sinin resmi dokümantasyonu ve örnekler.
+* **Claude API Documentation:** [Claude API Documentation](https://docs.anthropic.com/en/api/getting-started) - Claude API hakkında detaylı bilgi ve entegrasyon rehberi.
+* **Transform LLM Documentation:** [Transform LLM Documentation](https://huggingface.co/docs/transformers/llm_tutorial) - Transform LLM ile ilgili dökümantasyon ve kullanım kılavuzları.
+* **Ollama Documentation:** [Ollama Documentation](https://github.com/ollama/ollama/blob/main/docs/api.md) - Ollama kütüphanesinin resmi dokümantasyonu.
+* **Llama.cpp Documentation:** [Llama.cpp Documentation](https://github.com/ggerganov/llama.cpp) - Llama.cpp ile ilgili açık kaynak kodları ve dökümantasyon.
+* **Multi-Agent Systems Overview:** [Multi-Agent Systems Overview](#) - Multi-agent sistemler hakkında genel bilgiler ve akademik kaynaklar.(link eklenecek)
